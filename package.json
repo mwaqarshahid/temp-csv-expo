@@ -1,0 +1,11 @@
+{
+  "name": "expo-download-as-csv",
+  "version": "1.0.0",
+  "description": "This package helps to download list in local storage for android using expo file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
